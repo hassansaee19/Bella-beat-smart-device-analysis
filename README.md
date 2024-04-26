@@ -1,5 +1,12 @@
 # Bella beat smart device analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- Data Sources used in project
+- 
+
+
 ### Project Overview 
 Bella Beat wants to better understand how consumers use smart health devices in order to optimize their marketing strategies and potentially uncover new product development opportunities. They want to Analyze the Fitbit Fitness Tracker Data to identify patterns in how people utilize their smart devices and then develop high-level marketing strategy recommendations informed by the insights gained from the data analysis
 
