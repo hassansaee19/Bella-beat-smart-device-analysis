@@ -2,9 +2,13 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- Project Overview
 - Data Sources used in project
-- 
+- Tools
+- Exploratory Data Analysis
+- Code Snippet
+- Insights
+- Recommendations
 
 
 ### Project Overview 
@@ -292,13 +296,13 @@ WHERE  totalsleeprecords > (SELECT AVG(totalsleeprecords)
 > Introduced community events, challenges, and prizes to keep user engaged with the device for example: Bella beat announces that user who has the highest engagement for whole month
   will get a cash prize of 500 dollars. This would motivate users to actively track their health throughout the day and number of user would increase.
 
-> Locate areas in which these smart devices are mostly used and target people of that area through marketing campaigns. implement attractive marketing srategies that would encourge user
+> Locate areas in which these smart devices are mostly used and target people of that area through marketing campaigns. implement attractive marketing strategies that would encourge user
    to buy Bella beat smart device product. 
 
 > Introducing a personalized AI Assistant that tracks and updates user on daily calories, steps, and provides tailored recommendations to improve sleep quality. Additionally, it 
   suggests personalized workout sessions and sends reminders to ensure a consistent sleep schedule, such as going to bed by 10 pm and waking up at 6 am.
 
-> Take feedback from user who stopped using smart device through in App notifcations, emails, or surveys and ask them what are the reasons that let them discontinue bella
+> Take feedback from user who stopped using smart device through in App notifications, emails, or surveys and ask them what are the reasons that let them discontinue bella
   beat smart device an based on the feedback work on those areas or features of smart device.
 
 
